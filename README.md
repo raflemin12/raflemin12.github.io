@@ -3,7 +3,7 @@
 #### Technical Skills: SQL, Python, Excel, Tableau
 
 ## Work Experience
-### Senior Data Analyst, NA Trade & Customs, Nike Inc.
+### Senior Data Analyst, NA Trade & Customs, Nike Inc.  
 Feb 2021 - Present
 Boost analytics capacity, enabling data-driven decision and driving operational excellence
 + Conducted workshops to define Objectives and Key Results (OKRs) and pinpoint Key Performance Indicators (KPIs) for tracking target progress. These actionable OKRs and KPIs are the basis for creating comprehensive tracking reports, driving goal-oriented and data-backed strategies.
