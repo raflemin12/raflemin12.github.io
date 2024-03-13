@@ -1,4 +1,5 @@
 # Data Analyst
+Resourceful self-taught data analyst with a background in supply chain management. Known for delivering results, I have a track record of effective cross-functional collaboration to achieve business objectives. Driven by a commitment to improving efficiency, uncovering critical insights, and leveraging data to solve complex business challenges.
 
 #### Technical Skills: SQL, Python, Excel, Tableau
 
