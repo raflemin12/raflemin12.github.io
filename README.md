@@ -45,5 +45,5 @@ University of Michigan
 Member of Men's Varsity Track & Field Team
 
 ### Professional Certification in Global Supply Chain Management
-2016
+2016  
 Michigan State University
