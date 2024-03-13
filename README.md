@@ -36,12 +36,12 @@ Oversaw North American supply chain operations from raw material procurement to 
 ## Education
 
 ### Masters of Business Administration (M.B.A)
-2010 - 2011
+2010 - 2011  
 University of Portland
 
 ### Bachelor of Arts (B.A.) - Sports Management
-2006 - 2010
-University of Michigan
+2006 - 2010  
+University of Michigan  
 Member of Men's Varsity Track & Field Team
 
 ### Professional Certification in Global Supply Chain Management
