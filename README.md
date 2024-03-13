@@ -4,7 +4,7 @@
 
 ## Work Experience
 ### Senior Data Analyst, NA Trade & Customs, Nike Inc.  
-Feb 2021 - Present
+Feb 2021 - Present  
 Boost analytics capacity, enabling data-driven decision and driving operational excellence
 + Conducted workshops to define Objectives and Key Results (OKRs) and pinpoint Key Performance Indicators (KPIs) for tracking target progress. These actionable OKRs and KPIs are the basis for creating comprehensive tracking reports, driving goal-oriented and data-backed strategies.
 + Unleashed data's potential, employing SQL, Excel, and Python to unveil valuable business insights with a potential $10M in cost savings.
