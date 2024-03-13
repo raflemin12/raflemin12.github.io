@@ -31,7 +31,6 @@ Oversaw North American supply chain operations from raw material procurement to 
 + Directed orders and synchronized with 3PL for punctual and cost-efficient product deliveries, attaining an exceptional 95%+ on-time performance rate.
 + Enhanced inventory control by leveraging 3rd party warehouses and implementing a FIFO system, resulting in reduced costs and increased productivity, all while satisfying customer demand.
 + Nurtured international business relationships through thrice-yearly travel and ongoing monthly communication with domestic partners, fostering valuable connections.
-## Projects
 
 ## Education
 
